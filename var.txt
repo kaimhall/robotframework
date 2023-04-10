@@ -1,0 +1,2 @@
+--variable SECRET:mode 
+--variable USERNAME:demoFill Secret    id=password    ${SECRET}
